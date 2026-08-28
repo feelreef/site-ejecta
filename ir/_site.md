@@ -6,10 +6,10 @@ site-logo: /wordmark.svg
 favicon: /icon.svg
 lang: en
 color-scheme: light
-theme-color-light: #f1f2f4
-theme-color-dark: #14161b
+theme-color-light: #f5fcfb
+theme-color-dark: #12212f
 icon-color: #ff7a5c
-fonts: https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap
+fonts: https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&family=Young+Serif&display=swap
 theme: ejecta
 nav: Home / | How to leave /leaving-reef | Demo /demo | Corals /corals | Questions /faq
 header-cta: How to leave=/leaving-reef
