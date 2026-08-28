@@ -1,24 +1,24 @@
 ---
 name: ejecta
-gd-bg: #f1f2f4
+gd-bg: #f5fcfb
 gd-surface: #ffffff
-gd-text: #262a31
-gd-muted: #5a616d
-gd-accent: #c6472a
+gd-text: #1a2a3a
+gd-muted: #52707a
+gd-accent: #14a3b3
 gd-accent-ink: #ffffff
-gd-border: #dcdee3
-gd-font: "IBM Plex Sans", ui-sans-serif, system-ui, -apple-system, "PingFang TC", "Noto Sans TC", sans-serif
-gd-radius: 6px
+gd-border: #d7ece9
+gd-font: Nunito, ui-sans-serif, system-ui, -apple-system, "PingFang TC", "Noto Sans TC", sans-serif
+gd-radius: 20px
 gd-gap: clamp(1.5rem, 4vw, 3.25rem)
-gd-btn-radius: 4px
-gd-accent-deep: #9e3520
-gd-head: #12151b
-gd-hair: #e7e9ed
+gd-btn-radius: 999px
+gd-accent-deep: #0d7883
+gd-head: #12212f
+gd-hair: #eaf6f4
 gd-fg: #12151b
-gd-nav-panel: #ffffff
-gd-nav-panel-ink: #262a31
-gd-brand-font: "Space Grotesk", "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif
-gd-soft: #e6e8ec
+gd-nav-panel: #eef9f8
+gd-nav-panel-ink: #1a2a3a
+gd-brand-font: Nunito, ui-sans-serif, system-ui, -apple-system, "PingFang TC", "Noto Sans TC", sans-serif
+gd-soft: #e8f6f5
 gd-line: 1.6
 gd-heading-weight: 600
 gd-bg@dark: #14161b
