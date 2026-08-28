@@ -1,0 +1,40 @@
+/* Compiled from ir/_theme.md — do not hand-edit. Theme: ejecta. */
+html:root {
+  --gd-bg: #f1f2f4;
+  --gd-surface: #ffffff;
+  --gd-text: #262a31;
+  --gd-muted: #5a616d;
+  --gd-accent: #c6472a;
+  --gd-accent-ink: #ffffff;
+  --gd-border: #dcdee3;
+  --gd-font: "IBM Plex Sans", ui-sans-serif, system-ui, -apple-system, "PingFang TC", "Noto Sans TC", sans-serif;
+  --gd-radius: 6px;
+  --gd-gap: clamp(1.5rem, 4vw, 3.25rem);
+  --gd-btn-radius: 4px;
+  --gd-accent-deep: #9e3520;
+  --gd-head: #12151b;
+  --gd-hair: #e7e9ed;
+  --gd-fg: #12151b;
+  --gd-nav-panel: #ffffff;
+  --gd-nav-panel-ink: #262a31;
+  --gd-brand-font: "Space Grotesk", "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+  --gd-soft: #e6e8ec;
+  --gd-line: 1.6;
+  --gd-heading-weight: 600;
+}
+html[data-theme="dark"]:root {
+  --gd-bg: #14161b;
+  --gd-surface: #1d2027;
+  --gd-text: #d9dce2;
+  --gd-muted: #949aa6;
+  --gd-accent: #ff6b35;
+  --gd-accent-ink: #1a0d06;
+  --gd-border: #2c3037;
+  --gd-accent-deep: #ff8a5c;
+  --gd-head: #f2f4f7;
+  --gd-hair: #23262d;
+  --gd-fg: #f2f4f7;
+  --gd-nav-panel: #1d2027;
+  --gd-nav-panel-ink: #d9dce2;
+  --gd-soft: #1a1d23;
+}
