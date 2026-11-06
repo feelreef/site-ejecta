@@ -3,7 +3,7 @@ sitetile-page: ejecta
 title: REEF with Ejecta, from feelreef — how to leave with your whole site
 brand: REEF with Ejecta
 site-logo: /wordmark.svg
-favicon: /icon.svg
+favicon: /icon.png
 lang: en
 color-scheme: light
 theme-color-light: #f5fcfb
